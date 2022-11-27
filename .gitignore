@@ -10,6 +10,12 @@
 *.userosscache
 *.sln.docstates
 
+# My files to ignore
+*.json
+*Context.cs
+*.txt
+*.config
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
